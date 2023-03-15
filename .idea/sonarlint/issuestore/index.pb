@@ -1,0 +1,5 @@
+
+I
+HelloWorld/HelloWorld.iml,c/8/c8f082cef6b0ad8f1f3c8844da7c8a7bf506b9c8
+f
+6HelloWorld/src/EjemploAsignarPropiedadesDeSistema.java,5/7/5766fae0494dc014ac46fbde1a2e604f3ab777ae
